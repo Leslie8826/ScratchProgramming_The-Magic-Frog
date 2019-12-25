@@ -12,7 +12,7 @@ Fall 2019
 ## Difficulty
 Hard
 
-## Objectives: 
+## Objectives 
   - Students will be able to: 
        * understand how to implement blocks according to a scenario
        * control the main sprite from the keyboard
